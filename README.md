@@ -15,5 +15,5 @@
 
 ---
 
-### 📊 GitHub Stats
-![Gökalp's GitHub stats](https://github-readme-stats.vercel.app/api?username=MustafaGokalpMutlu&show_icons=true&theme=radical)
+
+![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MustafaGokalpMutlu&show_icons=true&theme=radical)
