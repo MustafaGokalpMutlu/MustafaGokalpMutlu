@@ -1,6 +1,6 @@
 ### Hi there, I'm Mustafa Gökalp Mutlu 👋
 
-* 💻 Working as an **IT Specialist** at **Originlog**, managing systems, infrastructure, and user support.
+* 💻 Working as an **IT Specialist** , managing systems, infrastructure, and user support.
 * 🛡️ Deepening my expertise in **Enterprise Networking** (CCNA, Fortigate) and **Cybersecurity**.
 * 🧪 Actively building and managing an enterprise-simulated **Homelab** (Proxmox, Docker, Linux, Windows Server).
 * 📝 Passionate about automation, documentation, and continuous learning.
@@ -16,4 +16,3 @@
 ---
 
 
-![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MustafaGokalpMutlu&show_icons=true&theme=radical)
